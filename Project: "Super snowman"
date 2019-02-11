@@ -1,0 +1,97 @@
+background(14, 210, 240);
+
+// ground
+
+fill(120, 25, 25);
+rect(-2, 325, 402, 74);
+
+//sun
+
+fill(232, 217, 79);
+arc(-3, 0, 169, 153, 0, 91); 
+
+// simple snowman
+
+stroke(0, 0, 0);
+fill(255, 255, 255);
+ellipse(200, 300, 150, 150);
+ellipse(200, 200, 100, 100);
+ellipse(200, 120, 75, 75);
+
+// eyes
+
+ellipse(181, 108,0,3);
+ellipse(217, 108,0,3);
+
+//smile
+
+arc(201, 134, 35, 22, 0, 178); 
+
+//scarf
+
+arc(201, 134, 35, 22, 0, 178); 
+
+// nose
+
+fill(227, 106, 13);
+triangle(200, 119, 202, 126, 132, 124); 
+
+// arms
+
+stroke(120, 67, 67);
+line(151, 192, 100, 100); 
+line(249, 192, 298, 100); 
+line(119, 134, 126, 100); 
+line(280, 134, 264, 100); 
+line(119, 134, 81, 118); 
+line(280, 134, 325, 124); 
+
+// Shirt
+
+fill(5, 5, 5);
+ellipse(201, 199, 9, 9);
+ellipse(201, 175, 9, 9);
+ellipse(201, 224, 9, 9);
+
+// snow
+
+noStroke();
+fill(255, 255, 255);
+ellipse(341, 58,5,3);
+ellipse(299, 71,5,3);
+ellipse(235, 30,5,3);
+ellipse(228, 89,5,3);
+ellipse(182, 76,5,3);
+ellipse(174, 58,5,3);
+ellipse(149, 58,5,3);
+ellipse(166, 58,5,3);
+ellipse(150, 58,5,3);
+ellipse(83, 200,5,3);
+ellipse(129, 189,5,3);
+
+ellipse(315, 122,5,3);
+
+ellipse(300, 163,5,3);
+ellipse(297, 140,5,3);
+ellipse(314, 58,5,3);
+ellipse(314, 58,5,3);
+ellipse(362, 208,5,3);
+ellipse(392, 233,5,3);
+ellipse(347, 140,5,3);
+ellipse(375, 58,5,3);
+ellipse(354, 81,5,3);
+ellipse(330, 208,5,3);
+ellipse(359, 249,5,3);
+ellipse(335, 226,5,3);
+ellipse(347, 240,5,3);
+ellipse(383, 130,5,3);
+ellipse(343, 160,5,3);
+ellipse(139, 180,-4,3);
+ellipse(316, 251,5,-1);
+ellipse(116, 180,-4,3);ellipse(89, 180,-4,3);ellipse(139, 214,-4,3);ellipse(139, 138,-4,3);ellipse(139, 109,-4,3);ellipse(45, 237,-4,3);ellipse(37, 108,-4,3);ellipse(53, 118,-4,3);ellipse(65, 276,-4,3);ellipse(38, 87,-4,3);
+
+// hat
+
+fill(0, 0, 0);
+ellipse(201,87,100,11);
+rect(167,28,65,59);
