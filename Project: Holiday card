@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Holiday card1"</title>
+        <style>
+        h3 {
+            color: rgb(94, 163, 49);
+        }
+        h1 {
+        color: rgb(224, 194, 76);
+    
+        } 
+        body {
+            background-color: rgb(168, 22, 29);
+        }
+        </style>    
+    </head>
+    <body>
+
+        <h1>Merry Christmas</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/1995_Blue_Room_Christmas_tree.jpg/471px-1995_Blue_Room_Christmas_tree.jpg" alt="A Christmas Tree" height="300">
+        <h2> 
+             Presents I really want:
+        </h2>    
+            <ul>
+                <li> A <em> <strong> state-of-the-art </strong> </em> laptop.
+                <li> New clothes.
+                <li> Delicious snacks. </li>
+            </ul>
+        <h2> My favorite parts: </h2>  
+            <ul>
+                <li> Buying presents for my relatives.
+                <li> Exchanging gifts at night.
+            </ul>
+            <h3> I love Chrismas. Hope you enjoy Christmas, too!!!</h3>
+            <img src="https://www.kasandbox.org/programming-images/seasonal/xmas-presents.png" alt="Gifts picture" width="400"> 
+    </body>
+</html>
